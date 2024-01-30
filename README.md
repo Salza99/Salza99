@@ -1,24 +1,10 @@
 
   
 <body><h1 align="center">Ciao sono Davide Salzani! 👋</h1>
-<h2 align="center"> Sviluppatore Web Full Stack con base a Verona 👨‍💻</h2>
+<h2 align="center"> Sviluppatore Web Full Stack 👨‍💻</h2>
 
-<p align="center"> Ehi! Sono un junior full-stack web developer. Appassionato di trasformare idee in codice, mi specializzo in HTML, CSS, e Javascript per creare interfacce intuitive e coinvolgenti. Esperto nell'uso di React per la creazione di app moderne e dinamiche. Non ho paura di sfide più complesse, come l'integrazione di Websockets per interazioni in tempo reale.</p>
-
-<h3> Competenze Frontend:</h3>
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>React</li>
-</ul>
-<h3> Competenze Backend:</h3>
-<ul>
-<li>Java</li>
-<li>SpringBoot</li>
-<li>PostgreSQL</li>
-<li>MySQL</li>
-</ul>
+<p align="center"> Ehi! Sono un junior full-stack web developer da Verona. Appassionato di trasformare idee in codice, mi specializzo in HTML, CSS, e Javascript per creare interfacce intuitive e coinvolgenti. Esperto nell'uso di React per la creazione di app moderne e dinamiche. Non ho paura di sfide più complesse, come l'integrazione di Websockets per interazioni in tempo reale.
+Lavoro anche sul lato server con Java e SpringBoot, creando backend robusti e performanti. Ho competenze anche nello store e nella gestione dei dati, utilizzando PostgreSQL e MySQL per assicurarmi che le informazioni siano sempre gestite con cura.</p>
 <p align="center">Attualmente sono alla ricerca di nuove opportunità e progetti entusiasmanti da affrontare. Se hai una sfida che richiede un tocco creativo e competente, sono qui per aiutarti a realizzarla! 🚀 #CodeDreams</p>
 <hr>
 <h2>Le mie competenze:</h2>

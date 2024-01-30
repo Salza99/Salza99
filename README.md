@@ -2,4 +2,4 @@
 
 Lavoro anche sul lato server con Java e SpringBoot, creando backend robusti e performanti. La gestione dei dati è la mia passione, con competenze in PostgreSQL e MySQL per assicurarmi che le informazioni siano sempre gestite con cura.
 
-Attualmente alla ricerca di nuove opportunità e progetti entusiasmanti da affrontare. Se hai una sfida che richiede un tocco creativo e competente, sono qui per aiutarti a realizzarla! 🚀 #CodeDreams
+Attualmente sono alla ricerca di nuove opportunità e progetti entusiasmanti da affrontare. Se hai una sfida che richiede un tocco creativo e competente, sono qui per aiutarti a realizzarla! 🚀 #CodeDreams

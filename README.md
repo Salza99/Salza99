@@ -10,7 +10,8 @@ Lavoro anche sul lato server con Java e SpringBoot, creando backend robusti e pe
    Dove mi trovi:</h3>
    <ul>
      <li>Email: davidesalzani190@gmail.com</li>
-     <li>Linkedin: www.linkedin.com/in/davide-salzaniwebdeveloper</li>
+     <li>Linkedin: https://www.linkedin.com/in/davide-salzaniwebdeveloper</li>
+     <li>Portfolio: https://davidesalzaniportfolio.netlify.app</li>
    </ul>
 
 <hr>
